@@ -121,7 +121,7 @@ function Cart({
                   </span>
                 </div>
                 <span class="text-sm text-base-300">
-                  Taxas e fretes serão calculados no checkout
+                  Tendo uma Deco Wallet, recebe 5 Deco Coins.
                 </span>
               </div>
 
