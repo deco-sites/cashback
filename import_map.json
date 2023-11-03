@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/cashback/": "./",
+
     "deco-sites/black-friday-lp/": "./",
 
     "$store/": "./",
