@@ -25,14 +25,15 @@ import * as $$$$$$18 from "./sections/Links/LinkTree.tsx";
 import * as $$$$$$19 from "./sections/Links/Shortcuts.tsx";
 import * as $$$$$$20 from "./sections/Miscellaneous/CampaignTimer.tsx";
 import * as $$$$$$21 from "./sections/Miscellaneous/CookieConsent.tsx";
-import * as $$$$$$22 from "./sections/Newsletter/Newsletter.tsx";
-import * as $$$$$$23 from "./sections/Product/ProductDetails.tsx";
-import * as $$$$$$24 from "./sections/Product/ProductShelf.tsx";
-import * as $$$$$$25 from "./sections/Product/SearchResult.tsx";
-import * as $$$$$$26 from "./sections/Product/Wishlist.tsx";
-import * as $$$$$$27 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$28 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$29 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$22 from "./sections/my/forms.tsx";
+import * as $$$$$$23 from "./sections/Newsletter/Newsletter.tsx";
+import * as $$$$$$24 from "./sections/Product/ProductDetails.tsx";
+import * as $$$$$$25 from "./sections/Product/ProductShelf.tsx";
+import * as $$$$$$26 from "./sections/Product/SearchResult.tsx";
+import * as $$$$$$27 from "./sections/Product/Wishlist.tsx";
+import * as $$$$$$28 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$29 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$30 from "./sections/Theme/Theme.tsx";
 import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$1 from "./apps/site.ts";
 
@@ -63,14 +64,15 @@ const manifest = {
     "deco-sites/cashback/sections/Links/Shortcuts.tsx": $$$$$$19,
     "deco-sites/cashback/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$20,
     "deco-sites/cashback/sections/Miscellaneous/CookieConsent.tsx": $$$$$$21,
-    "deco-sites/cashback/sections/Newsletter/Newsletter.tsx": $$$$$$22,
-    "deco-sites/cashback/sections/Product/ProductDetails.tsx": $$$$$$23,
-    "deco-sites/cashback/sections/Product/ProductShelf.tsx": $$$$$$24,
-    "deco-sites/cashback/sections/Product/SearchResult.tsx": $$$$$$25,
-    "deco-sites/cashback/sections/Product/Wishlist.tsx": $$$$$$26,
-    "deco-sites/cashback/sections/Social/InstagramPosts.tsx": $$$$$$27,
-    "deco-sites/cashback/sections/Social/WhatsApp.tsx": $$$$$$28,
-    "deco-sites/cashback/sections/Theme/Theme.tsx": $$$$$$29,
+    "deco-sites/cashback/sections/my/forms.tsx": $$$$$$22,
+    "deco-sites/cashback/sections/Newsletter/Newsletter.tsx": $$$$$$23,
+    "deco-sites/cashback/sections/Product/ProductDetails.tsx": $$$$$$24,
+    "deco-sites/cashback/sections/Product/ProductShelf.tsx": $$$$$$25,
+    "deco-sites/cashback/sections/Product/SearchResult.tsx": $$$$$$26,
+    "deco-sites/cashback/sections/Product/Wishlist.tsx": $$$$$$27,
+    "deco-sites/cashback/sections/Social/InstagramPosts.tsx": $$$$$$28,
+    "deco-sites/cashback/sections/Social/WhatsApp.tsx": $$$$$$29,
+    "deco-sites/cashback/sections/Theme/Theme.tsx": $$$$$$30,
   },
   "apps": {
     "deco-sites/cashback/apps/decohub.ts": $$$$$$$$$$$0,
