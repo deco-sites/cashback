@@ -7,6 +7,7 @@ export interface Props{
   export default function Forms({ labelOne, labelTwo, labelThree}: Props) {
     return (
       <>
+        <h1 class="text-center text-2xl font-bold mb-4">Compra do Produto</h1>
         <form>
           <div class="mb-4">
             <label class="block text-gray-700 text-sm font-bold mb-2" for="name">
@@ -54,7 +55,7 @@ export interface Props{
             <label
               class="text-gray-700 text-sm font-bold mb-2"
               for="create-wallet"
-            >
+            >   
               Você deseja criar uma conta Deco Wallet com os dados de compra?
             </label>
           </div>
