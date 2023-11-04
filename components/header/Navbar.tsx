@@ -37,7 +37,7 @@ function Navbar({ items, searchbar, logo, irParaOSite }: {
             style={{ minHeight: navbarHeight }}
             aria-label="Store logo"
           >
-            <Image src={logo.src} alt={logo.alt} width={126} height={16} />
+            <Image src={logo.src} alt={logo.alt} width={126} height={30} />
           </a>
         )}
 
@@ -57,7 +57,7 @@ function Navbar({ items, searchbar, logo, irParaOSite }: {
               aria-label="Store logo"
               class="block px-4 py-3 w-[160px]"
             >
-              <Image src={logo.src} alt={logo.alt} width={126} height={16} />
+              <Image src={logo.src} alt={logo.alt} width={126} height={30} />
             </a>
           )}
         </div>

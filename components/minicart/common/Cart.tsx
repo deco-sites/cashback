@@ -121,7 +121,7 @@ function Cart({
                   </span>
                 </div>
                 <span class="text-sm text-base-300">
-                  Tendo uma Deco Wallet, recebe 5 Deco Coins.
+                  Crie uma Deco Wallet para receber cashback de 5 DCoins
                 </span>
               </div>
 
