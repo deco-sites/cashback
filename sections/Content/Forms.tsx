@@ -10,7 +10,7 @@ export interface Props{
         <form>
           <div class="mb-4">
             <label class="block text-gray-700 text-sm font-bold mb-2" for="name">
-              $labelOne
+              {labelOne}
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -21,7 +21,7 @@ export interface Props{
           </div>
           <div class="mb-4">
             <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
-              $labelTwo
+              {labelTwo}
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -35,7 +35,7 @@ export interface Props{
               class="block text-gray-700 text-sm font-bold mb-2"
               for="password"
             >
-              labelThree
+              {labelThree}
             </label>
             <input
               class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -55,7 +55,7 @@ export interface Props{
               class="text-gray-700 text-sm font-bold mb-2"
               for="create-wallet"
             >
-              Você deseja criar uma conta Deco Wallet com os dados sugeridos?
+              Você deseja criar uma conta Deco Wallet com os dados de compra?
             </label>
           </div>
           <div class="flex items-center justify-between">
