@@ -56,7 +56,7 @@ export interface Props{
               class="text-gray-700 text-sm font-bold mb-2"
               for="create-wallet"
             >   
-              Você deseja criar uma conta Deco Wallet com os dados de compra?
+              Você deseja criar uma conta Deco Wallet com os dados de compra? (Se sim, rendirecionado para a sua Wallet.)
             </label>
           </div>
           <div class="flex items-center justify-between">
