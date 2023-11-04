@@ -10,22 +10,22 @@ import * as $$$$$$3 from "./sections/Content/Benefits.tsx";
 import * as $$$$$$4 from "./sections/Content/BenefitsLp.tsx";
 import * as $$$$$$5 from "./sections/Content/Faq.tsx";
 import * as $$$$$$6 from "./sections/Content/Footer.tsx";
-import * as $$$$$$7 from "./sections/Content/Logos.tsx";
-import * as $$$$$$8 from "./sections/Content/MainBanner.tsx";
-import * as $$$$$$9 from "./sections/Content/NewsLetter.tsx";
-import * as $$$$$$10 from "./sections/Content/Testimonials.tsx";
-import * as $$$$$$11 from "./sections/Content/TestimonialsLp.tsx";
-import * as $$$$$$12 from "./sections/Footer/Footer.tsx";
-import * as $$$$$$13 from "./sections/Header/Header.tsx";
-import * as $$$$$$14 from "./sections/Images/BannerGrid.tsx";
-import * as $$$$$$15 from "./sections/Images/Carousel.tsx";
-import * as $$$$$$16 from "./sections/Images/ImageGallery.tsx";
-import * as $$$$$$17 from "./sections/Images/ShoppableBanner.tsx";
-import * as $$$$$$18 from "./sections/Links/LinkTree.tsx";
-import * as $$$$$$19 from "./sections/Links/Shortcuts.tsx";
-import * as $$$$$$20 from "./sections/Miscellaneous/CampaignTimer.tsx";
-import * as $$$$$$21 from "./sections/Miscellaneous/CookieConsent.tsx";
-import * as $$$$$$22 from "./sections/my/forms.tsx";
+import * as $$$$$$7 from "./sections/Content/Forms.tsx";
+import * as $$$$$$8 from "./sections/Content/Logos.tsx";
+import * as $$$$$$9 from "./sections/Content/MainBanner.tsx";
+import * as $$$$$$10 from "./sections/Content/NewsLetter.tsx";
+import * as $$$$$$11 from "./sections/Content/Testimonials.tsx";
+import * as $$$$$$12 from "./sections/Content/TestimonialsLp.tsx";
+import * as $$$$$$13 from "./sections/Footer/Footer.tsx";
+import * as $$$$$$14 from "./sections/Header/Header.tsx";
+import * as $$$$$$15 from "./sections/Images/BannerGrid.tsx";
+import * as $$$$$$16 from "./sections/Images/Carousel.tsx";
+import * as $$$$$$17 from "./sections/Images/ImageGallery.tsx";
+import * as $$$$$$18 from "./sections/Images/ShoppableBanner.tsx";
+import * as $$$$$$19 from "./sections/Links/LinkTree.tsx";
+import * as $$$$$$20 from "./sections/Links/Shortcuts.tsx";
+import * as $$$$$$21 from "./sections/Miscellaneous/CampaignTimer.tsx";
+import * as $$$$$$22 from "./sections/Miscellaneous/CookieConsent.tsx";
 import * as $$$$$$23 from "./sections/Newsletter/Newsletter.tsx";
 import * as $$$$$$24 from "./sections/Product/ProductDetails.tsx";
 import * as $$$$$$25 from "./sections/Product/ProductShelf.tsx";
@@ -49,22 +49,22 @@ const manifest = {
     "deco-sites/cashback/sections/Content/BenefitsLp.tsx": $$$$$$4,
     "deco-sites/cashback/sections/Content/Faq.tsx": $$$$$$5,
     "deco-sites/cashback/sections/Content/Footer.tsx": $$$$$$6,
-    "deco-sites/cashback/sections/Content/Logos.tsx": $$$$$$7,
-    "deco-sites/cashback/sections/Content/MainBanner.tsx": $$$$$$8,
-    "deco-sites/cashback/sections/Content/NewsLetter.tsx": $$$$$$9,
-    "deco-sites/cashback/sections/Content/Testimonials.tsx": $$$$$$10,
-    "deco-sites/cashback/sections/Content/TestimonialsLp.tsx": $$$$$$11,
-    "deco-sites/cashback/sections/Footer/Footer.tsx": $$$$$$12,
-    "deco-sites/cashback/sections/Header/Header.tsx": $$$$$$13,
-    "deco-sites/cashback/sections/Images/BannerGrid.tsx": $$$$$$14,
-    "deco-sites/cashback/sections/Images/Carousel.tsx": $$$$$$15,
-    "deco-sites/cashback/sections/Images/ImageGallery.tsx": $$$$$$16,
-    "deco-sites/cashback/sections/Images/ShoppableBanner.tsx": $$$$$$17,
-    "deco-sites/cashback/sections/Links/LinkTree.tsx": $$$$$$18,
-    "deco-sites/cashback/sections/Links/Shortcuts.tsx": $$$$$$19,
-    "deco-sites/cashback/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$20,
-    "deco-sites/cashback/sections/Miscellaneous/CookieConsent.tsx": $$$$$$21,
-    "deco-sites/cashback/sections/my/forms.tsx": $$$$$$22,
+    "deco-sites/cashback/sections/Content/Forms.tsx": $$$$$$7,
+    "deco-sites/cashback/sections/Content/Logos.tsx": $$$$$$8,
+    "deco-sites/cashback/sections/Content/MainBanner.tsx": $$$$$$9,
+    "deco-sites/cashback/sections/Content/NewsLetter.tsx": $$$$$$10,
+    "deco-sites/cashback/sections/Content/Testimonials.tsx": $$$$$$11,
+    "deco-sites/cashback/sections/Content/TestimonialsLp.tsx": $$$$$$12,
+    "deco-sites/cashback/sections/Footer/Footer.tsx": $$$$$$13,
+    "deco-sites/cashback/sections/Header/Header.tsx": $$$$$$14,
+    "deco-sites/cashback/sections/Images/BannerGrid.tsx": $$$$$$15,
+    "deco-sites/cashback/sections/Images/Carousel.tsx": $$$$$$16,
+    "deco-sites/cashback/sections/Images/ImageGallery.tsx": $$$$$$17,
+    "deco-sites/cashback/sections/Images/ShoppableBanner.tsx": $$$$$$18,
+    "deco-sites/cashback/sections/Links/LinkTree.tsx": $$$$$$19,
+    "deco-sites/cashback/sections/Links/Shortcuts.tsx": $$$$$$20,
+    "deco-sites/cashback/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$21,
+    "deco-sites/cashback/sections/Miscellaneous/CookieConsent.tsx": $$$$$$22,
     "deco-sites/cashback/sections/Newsletter/Newsletter.tsx": $$$$$$23,
     "deco-sites/cashback/sections/Product/ProductDetails.tsx": $$$$$$24,
     "deco-sites/cashback/sections/Product/ProductShelf.tsx": $$$$$$25,
